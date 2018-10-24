@@ -72,7 +72,7 @@
   "sourcePath": "/Users/gregory/code/token_sale/contracts/Migrations.sol",
   "ast": {
     "attributes": {
-      "absolutePath": "/Users/gregory/code/token_sale/contracts/Migrations.sol",
+      "absolutePath": "/Users/admin/code/token_sale/contracts/Migrations.sol",
       "exportedSymbols": {
         "Migrations": [
           378
